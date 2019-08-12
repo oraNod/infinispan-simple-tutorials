@@ -1,0 +1,11 @@
+include::../../../documentation/asciidoc/attributes.adoc[]
+
+= Simple Tutorial for Streams
+
+**Authors:** William Burns +
+**Technologies:** Infinispan, Streams +
+**Summary:** Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+'''
+
+include::streams_api.adoc[leveloffset=+1]

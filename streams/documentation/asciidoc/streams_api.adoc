@@ -1,0 +1,9 @@
+= Using the Streams API on Caches
+
+The following example illustrates how to use the Java Streams API on a cache:
+
+//Set ${github_branch} in the attributes.adoc file.
+[source,java,subs=attributes+]
+----
+include::{github_raw}{github_branch}/streams/src/main/java/org/infinispan/tutorial/simple/streams/InfinispanStreams.java[]
+----
