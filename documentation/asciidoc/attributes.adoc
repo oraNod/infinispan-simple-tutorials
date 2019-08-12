@@ -1,0 +1,34 @@
+//Community
+ifndef::productized[]
+:brandname: Infinispan
+:ispn_operator: Infinispan Operator
+:infinispanversion: 10.0
+:k8s: Kubernetes
+:okd: OKD
+:example_pod_name: example-infinispan
+:openshiftlong: Red Hat OpenShift
+:openshiftshort: OpenShift
+endif::productized[]
+
+//Product
+ifdef::productized[]
+:brandname: Data Grid
+:ispn_operator: Data Grid Operator
+:infinispanversion: 8
+:k8s: Kubernetes
+:okd: OKD
+:example_pod_name: example-rhdatagrid
+:openshiftlong: Red Hat OpenShift
+:openshiftshort: OpenShift
+endif::productized[]
+
+//Set the branch for
+//Community
+ifndef::productized[]
+:github_branch: master
+endif::productized[]
+
+//Product
+ifdef::productized[]
+:github_branch: master
+endif::productized[]
