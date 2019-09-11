@@ -1,6 +1,0 @@
-rhdg_tutorials:
-  master:
-    # Test zip for now...
-    zip-url: https://github.com/oraNod/infinispan-simple-tutorials/archive/ISPN-10375.zip
-    # This is the zip we're looking for when tutorials have asciidoc content.
-    #https://github.com/infinispan/infinispan-simple-tutorials/archive/master.zip
